@@ -8,3 +8,5 @@
 3. 值可以是字符串，也可以是字典或者其他类型
 
 - 在错误中学习到了：Python 中字典访问键是使用方括号，而不是 dot 属性访问
+
+- 学到了 Python 里面把 JSON 字符串 parse 成为一个对象，是用 json module 的 loads 方法。
